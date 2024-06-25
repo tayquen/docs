@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "#"
   },
   "tabs": [
     {
@@ -40,12 +40,12 @@
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://community.tayquen.com"
+      "url": "#"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://blog.tayquen.com"
+      "url": "#"
     }
   ],
   "navigation": [
