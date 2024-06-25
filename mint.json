@@ -58,6 +58,10 @@
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
+      "group": "tayquen",
+      "pages": ["start/00", "start/tayquen-about", ]
+    },
+    {
       "group": "API Documentation",
       "pages": ["api-reference/introduction"]
     },
