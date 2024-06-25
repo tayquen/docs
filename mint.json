@@ -23,6 +23,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "tayquen start here",
+      "url": "start"
     }
   ],
   "anchors": [
@@ -53,7 +57,7 @@
     },
     {
       "group": "tayquen",
-      "pages": ["start/00", "start/tayquen-about", ]
+      "pages": ["start/00", "start/tayquen-about" ]
     },
     {
       "group": "API Documentation",
