@@ -2,12 +2,12 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/images/tayquen-logo.svg",
+    "light": "/images/tayquen-logo.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/tayquen-icon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#044f44",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:hi@tayquen.com"
     }
   ],
   "topbarCtaButton": {
@@ -71,8 +71,8 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/tayquencom",
+    "github": "https://github.com/tayquen",
+    "linkedin": "https://www.linkedin.com/company/tayquen"
   }
 }
