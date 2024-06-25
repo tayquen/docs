@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "tayquen documents",
   "logo": {
     "dark": "/images/tayquen-logo.svg",
     "light": "/images/tayquen-logo.svg"
@@ -15,12 +15,6 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@tayquen.com"
-    }
-  ],
   "topbarCtaButton": {
     "name": "Dashboard",
     "url": "#"
